@@ -1,1 +1,1 @@
-# -Gesture-control-IoT-devices-with-Kinect
+# Gesture controlled IoT devices with Kinect
