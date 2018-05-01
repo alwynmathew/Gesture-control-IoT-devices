@@ -2,7 +2,8 @@
 We developed an application to control physical devices with gesutures. No more faffing with apps, interact with devices in the most natural way possible. 
 
 ![Gesture controlled IoT devices with Kinect pic](https://www.extremetech.com/wp-content/uploads/2013/12/pointgrab.jpg)
-<div style="Gesture controlled IoT devices with Kinect pic]"><img align="center" src ="https://www.extremetech.com/wp-content/uploads/2013/12/pointgrab.jpg" /></div>
+<p align="center">
+  <img src="https://www.extremetech.com/wp-content/uploads/2013/12/pointgrab.jpg" width="750px" height="300px"/></p>
 
 ## Requirements
 
